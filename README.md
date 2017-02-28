@@ -20,5 +20,5 @@
    with provided comments and notes. PySpark script is also 
    available as _titanic-analysis.py_ PySpark script.
    
-   © Milos Milovanovic, Things Solver
+   © Milos Milovanovic, [Things Solver](https://thingsolver.com)
  
